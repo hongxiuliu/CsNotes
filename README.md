@@ -1,3 +1,5 @@
+**作者已经毕业，资料可能过时，欢迎大家提交request进行补充**
+
 - 推荐使用[obsidance](https://obsidian.md/)阅读
 - 为了更好的阅读体验，请先fork然后clone并使用obsidance阅读
 - 配置了git插件，打开后会自动pull
