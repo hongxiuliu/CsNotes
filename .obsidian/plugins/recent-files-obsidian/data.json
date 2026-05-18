@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "动态规划",
+      "path": "docs/算法竞赛/动态规划.md"
+    },
+    {
+      "basename": "递归分治",
+      "path": "docs/算法竞赛/递归分治.md"
+    },
+    {
+      "basename": "待学高级知识",
+      "path": "docs/算法竞赛/待学高级知识.md"
+    },
+    {
+      "basename": "错题本",
+      "path": "docs/算法竞赛/错题本.md"
+    },
+    {
+      "basename": "博弈",
+      "path": "docs/算法竞赛/博弈.md"
+    },
+    {
+      "basename": "ExtraSS A Framework for Joint Spatial Super Sampling and Frame Extrapolation",
+      "path": "docs/论文研读/超分插帧/超分插针融合/ExtraSS A Framework for Joint Spatial Super Sampling and Frame Extrapolation.md"
+    },
+    {
+      "basename": "实验",
+      "path": "docs/论文研读/超分插帧/超分插针融合/实验.md"
+    },
+    {
+      "basename": "conda",
+      "path": "docs/编程语言/python/工具/conda.md"
+    },
+    {
+      "basename": "C++基础",
+      "path": "docs/编程语言/c++/C++基础.md"
+    },
+    {
+      "basename": "线性代数engin",
+      "path": "docs/编程语言/c++/库/线性代数engin.md"
+    },
+    {
+      "basename": "1",
+      "path": "docs/编程语言/c++/笔记（整理前）/1.md"
+    },
+    {
       "basename": "Neural Frame Interpolation for Rendered Content",
       "path": "docs/论文研读/超分插帧/taibase/Neural Frame Interpolation for Rendered Content.md"
     },
@@ -9,16 +53,8 @@
       "path": "docs/论文研读/超分插帧/taibase/Kernel-Based Frame Interpolation for Spatio-Temporally Adaptive Rendering.md"
     },
     {
-      "basename": "ExtraSS A Framework for Joint Spatial Super Sampling and Frame Extrapolation",
-      "path": "docs/论文研读/超分插帧/超分插针融合/ExtraSS A Framework for Joint Spatial Super Sampling and Frame Extrapolation.md"
-    },
-    {
       "basename": "训练框架使用",
       "path": "docs/其他内容/人工智能/实验/训练框架使用.md"
-    },
-    {
-      "basename": "实验",
-      "path": "docs/论文研读/超分插帧/超分插针融合/实验.md"
     },
     {
       "basename": "2025-10-07",
@@ -81,16 +117,8 @@
       "path": "docs/编程语言/c++/C++Primer.md"
     },
     {
-      "basename": "1",
-      "path": "docs/编程语言/c++/笔记（整理前）/1.md"
-    },
-    {
       "basename": "16",
       "path": "docs/编程语言/c++/笔记（整理前）/16.md"
-    },
-    {
-      "basename": "C++基础",
-      "path": "docs/编程语言/c++/C++基础.md"
     },
     {
       "basename": "实验笔记",
