@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "动态规划",
-      "path": "docs/算法竞赛/动态规划.md"
+      "basename": "离散数学",
+      "path": "docs/知识点（保研&工作）/保研/数学/离散数学.md"
     },
     {
-      "basename": "递归分治",
-      "path": "docs/算法竞赛/递归分治.md"
+      "basename": "线性代数",
+      "path": "docs/知识点（保研&工作）/保研/数学/线性代数.md"
     },
     {
-      "basename": "待学高级知识",
-      "path": "docs/算法竞赛/待学高级知识.md"
+      "basename": "概率论",
+      "path": "docs/知识点（保研&工作）/保研/数学/概率论.md"
     },
     {
-      "basename": "错题本",
-      "path": "docs/算法竞赛/错题本.md"
+      "basename": "simpread-2022 南大 cs 夏令营笔试面试准备",
+      "path": "docs/知识点（保研&工作）/保研/面试/simpread-2022 南大 cs 夏令营笔试面试准备.md"
     },
     {
-      "basename": "博弈",
-      "path": "docs/算法竞赛/博弈.md"
+      "basename": "问题",
+      "path": "docs/知识点（保研&工作）/保研/面试/问题.md"
     },
     {
-      "basename": "ExtraSS A Framework for Joint Spatial Super Sampling and Frame Extrapolation",
-      "path": "docs/论文研读/超分插帧/超分插针融合/ExtraSS A Framework for Joint Spatial Super Sampling and Frame Extrapolation.md"
+      "basename": "南大复试面试题答案汇总",
+      "path": "docs/知识点（保研&工作）/保研/面试/南大复试面试题答案汇总.pdf"
     },
     {
-      "basename": "实验",
-      "path": "docs/论文研读/超分插帧/超分插针融合/实验.md"
+      "basename": "面试",
+      "path": "docs/知识点（保研&工作）/保研/面试/面试.pdf"
     },
     {
-      "basename": "conda",
-      "path": "docs/编程语言/python/工具/conda.md"
+      "basename": "相关词汇",
+      "path": "docs/知识点（保研&工作）/保研/面试/英语/相关词汇.md"
     },
     {
-      "basename": "C++基础",
-      "path": "docs/编程语言/c++/C++基础.md"
+      "basename": "【英语】问题准备",
+      "path": "docs/知识点（保研&工作）/保研/面试/英语/【英语】问题准备.md"
     },
     {
-      "basename": "线性代数engin",
-      "path": "docs/编程语言/c++/库/线性代数engin.md"
-    },
-    {
-      "basename": "1",
-      "path": "docs/编程语言/c++/笔记（整理前）/1.md"
-    },
-    {
-      "basename": "Neural Frame Interpolation for Rendered Content",
-      "path": "docs/论文研读/超分插帧/taibase/Neural Frame Interpolation for Rendered Content.md"
-    },
-    {
-      "basename": "Kernel-Based Frame Interpolation for Spatio-Temporally Adaptive Rendering",
-      "path": "docs/论文研读/超分插帧/taibase/Kernel-Based Frame Interpolation for Spatio-Temporally Adaptive Rendering.md"
-    },
-    {
-      "basename": "训练框架使用",
-      "path": "docs/其他内容/人工智能/实验/训练框架使用.md"
-    },
-    {
-      "basename": "2025-10-07",
-      "path": "2025-10-07.md"
-    },
-    {
-      "basename": "pyopengl",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/API编程/opengl/pyopengl.md"
-    },
-    {
-      "basename": "Spine 2D骨骼动画",
-      "path": "docs/其他内容/游戏开发&图形学/游戏开发/游戏客户端/unity/插件/Spine 2D骨骼动画.md"
-    },
-    {
-      "basename": "unity基础",
-      "path": "docs/其他内容/游戏开发&图形学/游戏开发/游戏客户端/unity/unity基础.md"
-    },
-    {
-      "basename": "使用UnityYamlMerge处理冲突",
-      "path": "docs/其他内容/游戏开发&图形学/游戏开发/游戏客户端/unity/插件/使用UnityYamlMerge处理冲突.md"
-    },
-    {
-      "basename": "解释一下：from_torch.utils.data_import_Dataset_class_toy_set(Dataset)_def___init__(self,_length_=@20250303_010815",
-      "path": "_copilot-conversations_/解释一下：from_torch.utils.data_import_Dataset_class_toy_set(Dataset)_def___init__(self,_length_=@20250303_010815.md"
-    },
-    {
-      "basename": "讲解下笔记中的正则化内容@20250303_115250",
-      "path": "_copilot-conversations_/讲解下笔记中的正则化内容@20250303_115250.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "docs/_draft_/未命名.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "线性代数与变换",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/图形学基础/线性代数与变换.md"
-    },
-    {
-      "basename": "后处理",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/杂项/后处理.md"
-    },
-    {
-      "basename": "几何",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/图形学基础/几何.md"
-    },
-    {
-      "basename": "实时渲染第四版",
-      "path": "docs/其他内容/游戏开发&图形学/阅读/实时渲染第四版.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/三维重建/笔记.md"
-    },
-    {
-      "basename": "C++Primer",
-      "path": "docs/编程语言/c++/C++Primer.md"
-    },
-    {
-      "basename": "16",
-      "path": "docs/编程语言/c++/笔记（整理前）/16.md"
-    },
-    {
-      "basename": "实验笔记",
-      "path": "docs/学校课程/归档课程/操作系统/实验笔记.md"
-    },
-    {
-      "basename": "竞赛信息",
-      "path": "_待办事项_/竞赛信息.md"
-    },
-    {
-      "basename": "金融工程论文寻找",
-      "path": "_draft_/金融工程/金融工程论文寻找.md"
+      "basename": "操作系统",
+      "path": "docs/知识点（保研&工作）/保研/计算机科学/操作系统.md"
     },
     {
       "basename": "补充",
-      "path": "docs/学校课程/归档课程/操作系统/笔记/补充.md"
+      "path": "docs/知识点（保研&工作）/保研/计算机科学/补充.md"
+    },
+    {
+      "basename": "编译原理",
+      "path": "docs/知识点（保研&工作）/保研/计算机科学/编译原理.md"
+    },
+    {
+      "basename": "simpread-南京大学计院夏令营历年机试笔试题汇总（刷题版）_南京大学计算机夏令营笔试 - CSDN 博客",
+      "path": "docs/知识点（保研&工作）/保研/笔试/simpread-南京大学计院夏令营历年机试笔试题汇总（刷题版）_南京大学计算机夏令营笔试 - CSDN 博客.md"
+    },
+    {
+      "basename": "c96536f112a74024be9f595f007a2763",
+      "path": "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg"
+    },
+    {
+      "basename": "2021年南京大学计算机科学与技术系本科生开放日7月8日线上考核",
+      "path": "docs/知识点（保研&工作）/保研/笔试/2021年南京大学计算机科学与技术系本科生开放日7月8日线上考核.pdf"
+    },
+    {
+      "basename": "线性数据结构",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/线性数据结构.md"
+    },
+    {
+      "basename": "图",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/图.md"
+    },
+    {
+      "basename": "搜索结构",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/搜索结构.md"
+    },
+    {
+      "basename": "树",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/树.md"
+    },
+    {
+      "basename": "排序",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/排序.md"
+    },
+    {
+      "basename": "树",
+      "path": "docs/学校课程/归档课程/数据结构/课件/树.pdf"
+    },
+    {
+      "basename": "排序",
+      "path": "docs/学校课程/归档课程/数据结构/课件/排序.pdf"
+    },
+    {
+      "basename": "集合与字典",
+      "path": "docs/学校课程/归档课程/数据结构/课件/集合与字典.pdf"
+    },
+    {
+      "basename": "概述",
+      "path": "docs/学校课程/归档课程/数据结构/课件/概述.pdf"
+    },
+    {
+      "basename": "p7",
+      "path": "docs/学校课程/归档课程/数据结构/作业/p7.md"
+    },
+    {
+      "basename": "p6",
+      "path": "docs/学校课程/归档课程/数据结构/作业/p6.md"
+    },
+    {
+      "basename": "p5",
+      "path": "docs/学校课程/归档课程/数据结构/作业/p5.md"
+    },
+    {
+      "basename": "p4",
+      "path": "docs/学校课程/归档课程/数据结构/作业/p4.md"
+    },
+    {
+      "basename": "p2",
+      "path": "docs/学校课程/归档课程/数据结构/作业/p2.md"
+    },
+    {
+      "basename": "p1",
+      "path": "docs/学校课程/归档课程/数据结构/作业/p1.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "docs/学校课程/归档课程/软件工程/笔记.md"
+    },
+    {
+      "basename": "U2",
+      "path": "docs/学校课程/归档课程/计算机系统基础/作业/U2.md"
+    },
+    {
+      "basename": "pa2",
+      "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa2.md"
     },
     {
       "basename": "4",
       "path": "docs/学校课程/归档课程/计算机系统基础/data/4.md"
     },
     {
-      "basename": "并发",
-      "path": "docs/学校课程/归档课程/操作系统/笔记/并发.md"
+      "basename": "3",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/3.md"
     },
     {
-      "basename": "fish",
-      "path": "docs/学校课程/归档课程/操作系统/代码/fish/fish.c"
+      "basename": "2",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/2.md"
     },
     {
-      "basename": "持久化",
-      "path": "docs/学校课程/归档课程/操作系统/笔记/持久化.md"
+      "basename": "计算机系统基础笔记",
+      "path": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md"
     },
     {
-      "basename": "虚拟化",
-      "path": "docs/学校课程/归档课程/操作系统/笔记/虚拟化.md"
+      "basename": "重点",
+      "path": "docs/学校课程/归档课程/计算机网络/重点.md"
     },
     {
-      "basename": "绪论",
-      "path": "docs/学校课程/归档课程/操作系统/笔记/绪论.md"
+      "basename": "笔记",
+      "path": "docs/学校课程/归档课程/计算机网络/笔记.md"
     },
     {
-      "basename": "7",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/7.md"
+      "basename": "作业四",
+      "path": "docs/学校课程/归档课程/计算机网络/作业/作业四.md"
     },
     {
-      "basename": "8",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/8.md"
+      "basename": "作业七",
+      "path": "docs/学校课程/归档课程/计算机网络/作业/作业七.md"
     },
     {
-      "basename": "thread",
-      "path": "docs/学校课程/归档课程/操作系统/代码/thread-lib/thread.h"
+      "basename": "作业六",
+      "path": "docs/学校课程/归档课程/计算机网络/作业/作业六.md"
     },
     {
-      "basename": "os-model",
-      "path": "docs/学校课程/归档课程/操作系统/代码/os-model/os-model.py"
+      "basename": "实验笔记",
+      "path": "docs/学校课程/归档课程/计算机网络/实验/实验笔记.md"
     },
     {
-      "basename": "index",
-      "path": "docs/index.md"
+      "basename": "期末复习",
+      "path": "docs/学校课程/归档课程/公司金融学/期末复习.md"
     },
     {
-      "basename": "index",
-      "path": "docs/blog/index.md"
+      "basename": "复习题2023",
+      "path": "docs/学校课程/归档课程/公司金融学/复习题2023.md"
     },
     {
-      "basename": "ABC321",
-      "path": "docs/blog/posts/算法竞赛/ABC321.md"
+      "basename": "财务基础",
+      "path": "docs/学校课程/归档课程/公司金融学/课件/财务基础.pdf"
     },
     {
-      "basename": "ARC165",
-      "path": "docs/blog/posts/算法竞赛/ARC165.md"
+      "basename": "第八章公司并购重组与价值评估",
+      "path": "docs/学校课程/归档课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf"
     },
     {
-      "basename": "CodeforcesRound899(Div.2)",
-      "path": "docs/blog/posts/算法竞赛/CodeforcesRound899(Div.2).md"
+      "basename": "6投资决策",
+      "path": "docs/学校课程/归档课程/公司金融学/课件/6投资决策.pdf"
     },
     {
-      "basename": "CodeforcesRound900(Div.3)",
-      "path": "docs/blog/posts/算法竞赛/CodeforcesRound900(Div.3).md"
+      "basename": "高级程序设计复习",
+      "path": "docs/学校课程/归档课程/高级程序设计/高级程序设计复习.md"
+    },
+    {
+      "basename": "补充",
+      "path": "docs/学校课程/归档课程/操作系统/笔记/补充.md"
     }
   ],
   "omittedPaths": [],
