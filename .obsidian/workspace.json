@@ -25,14 +25,12 @@
             "id": "5067a8737312bfc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "docs/学校课程/归档课程/大数据/笔记/概述.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/学校课程/归档课程/大数据/课件/03 MapReduce简介.pdf"
               },
-              "icon": "lucide-file",
-              "title": "概述"
+              "icon": "lucide-file-text",
+              "title": "03 MapReduce简介"
             }
           }
         ],
@@ -211,6 +209,9 @@
   },
   "active": "5067a8737312bfc0",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf",
+    "docs/学校课程/归档课程/大数据/笔记/云计算.md",
+    "docs/学校课程/归档课程/大数据/笔记/概述.md",
     "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf",
     "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf",
     "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf",
@@ -221,8 +222,6 @@
     "docs/学校课程/归档课程/大数据/课件/06 MapReduce Basic Programming (I).pdf",
     "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf",
     "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf",
-    "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf",
-    "docs/学校课程/归档课程/大数据/笔记/概述.md",
     "docs/学校课程/归档课程/数据结构/笔记/图.md",
     "docs/学校课程/归档课程/数据结构/笔记/搜索结构.md",
     "docs/学校课程/归档课程/数据结构/笔记/排序.md",
@@ -246,7 +245,6 @@
     "docs/知识点（保研&工作）/保研/数学/线性代数.md",
     "docs/知识点（保研&工作）/保研/数学/概率论.md",
     "docs/知识点（保研&工作）/保研/面试/simpread-2022 南大 cs 夏令营笔试面试准备.md",
-    "docs/知识点（保研&工作）/保研/面试/问题.md",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",
     "Excalidraw/pic/Pasted Image 20250603151447_863.png",
     "Excalidraw/pic/Pasted Image 20250603151426_231.png",

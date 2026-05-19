@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "03 MapReduce简介",
+      "path": "docs/学校课程/归档课程/大数据/课件/03 MapReduce简介.pdf"
+    },
+    {
+      "basename": "02 Parallel Computing",
+      "path": "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf"
+    },
+    {
+      "basename": "云计算",
+      "path": "docs/学校课程/归档课程/大数据/笔记/云计算.md"
+    },
+    {
       "basename": "概述",
       "path": "docs/学校课程/归档课程/大数据/笔记/概述.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "04 Google MapReduce基本架构",
       "path": "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf"
-    },
-    {
-      "basename": "02 Parallel Computing",
-      "path": "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf"
     },
     {
       "basename": "01 Big Data",
@@ -191,14 +199,6 @@
     {
       "basename": "2021年南京大学计算机科学与技术系本科生开放日7月8日线上考核",
       "path": "docs/知识点（保研&工作）/保研/笔试/2021年南京大学计算机科学与技术系本科生开放日7月8日线上考核.pdf"
-    },
-    {
-      "basename": "线性数据结构",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/线性数据结构.md"
-    },
-    {
-      "basename": "树",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/树.md"
     }
   ],
   "omittedPaths": [],
