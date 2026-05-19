@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "02 Parallel Computing",
+      "path": "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf"
+    },
+    {
       "basename": "03 MapReduce简介",
       "path": "docs/学校课程/归档课程/大数据/课件/03 MapReduce简介.pdf"
     },
     {
-      "basename": "02 Parallel Computing",
-      "path": "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf"
+      "basename": "HBase",
+      "path": "docs/学校课程/归档课程/大数据/笔记/HBase.md"
+    },
+    {
+      "basename": "Hive",
+      "path": "docs/学校课程/归档课程/大数据/笔记/Hive.md"
+    },
+    {
+      "basename": "04 Google MapReduce基本架构",
+      "path": "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf"
     },
     {
       "basename": "云计算",
@@ -51,10 +63,6 @@
     {
       "basename": "05 Hadoop基本架构",
       "path": "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf"
-    },
-    {
-      "basename": "04 Google MapReduce基本架构",
-      "path": "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf"
     },
     {
       "basename": "01 Big Data",
@@ -191,14 +199,6 @@
     {
       "basename": "simpread-南京大学计院夏令营历年机试笔试题汇总（刷题版）_南京大学计算机夏令营笔试 - CSDN 博客",
       "path": "docs/知识点（保研&工作）/保研/笔试/simpread-南京大学计院夏令营历年机试笔试题汇总（刷题版）_南京大学计算机夏令营笔试 - CSDN 博客.md"
-    },
-    {
-      "basename": "c96536f112a74024be9f595f007a2763",
-      "path": "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg"
-    },
-    {
-      "basename": "2021年南京大学计算机科学与技术系本科生开放日7月8日线上考核",
-      "path": "docs/知识点（保研&工作）/保研/笔试/2021年南京大学计算机科学与技术系本科生开放日7月8日线上考核.pdf"
     }
   ],
   "omittedPaths": [],
