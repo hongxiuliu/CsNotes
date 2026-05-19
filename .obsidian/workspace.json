@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/学校课程/归档课程/数据结构/笔记/图.md",
+                "file": "docs/学校课程/归档课程/大数据/笔记/概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图"
+              "title": "概述"
             }
           }
         ],
@@ -211,10 +211,22 @@
   },
   "active": "5067a8737312bfc0",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf",
+    "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf",
+    "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf",
+    "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf",
+    "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf",
+    "docs/学校课程/归档课程/大数据/课件/08 MapReduce Advanced Programming.pdf",
+    "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf",
+    "docs/学校课程/归档课程/大数据/课件/06 MapReduce Basic Programming (I).pdf",
+    "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf",
+    "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf",
+    "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf",
+    "docs/学校课程/归档课程/大数据/笔记/概述.md",
+    "docs/学校课程/归档课程/数据结构/笔记/图.md",
     "docs/学校课程/归档课程/数据结构/笔记/搜索结构.md",
     "docs/学校课程/归档课程/数据结构/笔记/排序.md",
     "docs/学校课程/归档课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
-    "docs/学校课程/归档课程/数字逻辑与计算机组成/数电样卷.pdf",
     "docs/学校课程/归档课程/数字逻辑与计算机组成/实验报告/p4.md",
     "docs/技能&工具/git/git.md",
     "docs/技能&工具/git/github.md",
@@ -235,19 +247,7 @@
     "docs/知识点（保研&工作）/保研/数学/概率论.md",
     "docs/知识点（保研&工作）/保研/面试/simpread-2022 南大 cs 夏令营笔试面试准备.md",
     "docs/知识点（保研&工作）/保研/面试/问题.md",
-    "docs/知识点（保研&工作）/保研/面试/南大复试面试题答案汇总.pdf",
-    "docs/知识点（保研&工作）/保研/面试/面试.pdf",
-    "docs/知识点（保研&工作）/保研/面试/英语/相关词汇.md",
-    "docs/知识点（保研&工作）/保研/面试/英语/【英语】问题准备.md",
-    "docs/知识点（保研&工作）/保研/计算机科学/操作系统.md",
-    "docs/知识点（保研&工作）/保研/机试/~$生开放日机试题目.doc",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",
-    "docs/知识点（保研&工作）/保研/笔试/2021年南京大学计算机科学与技术系本科生开放日7月8日线上考核.pdf",
-    "docs/学校课程/归档课程/数据结构/课件/树.pdf",
-    "docs/学校课程/归档课程/数据结构/课件/排序.pdf",
-    "docs/学校课程/归档课程/数据结构/课件/集合与字典.pdf",
-    "docs/学校课程/归档课程/数据结构/课件/概述.pdf",
-    "docs/学校课程/归档课程/公司金融学/课件/财务基础.pdf",
     "Excalidraw/pic/Pasted Image 20250603151447_863.png",
     "Excalidraw/pic/Pasted Image 20250603151426_231.png",
     "Excalidraw/pic/Pasted Image 20250603151439_890.png",
