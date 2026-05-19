@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "图",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/图.md"
+    },
+    {
+      "basename": "搜索结构",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/搜索结构.md"
+    },
+    {
+      "basename": "排序",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/排序.md"
+    },
+    {
+      "basename": "数字逻辑与计算机组成",
+      "path": "docs/学校课程/归档课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md"
+    },
+    {
+      "basename": "数电样卷",
+      "path": "docs/学校课程/归档课程/数字逻辑与计算机组成/数电样卷.pdf"
+    },
+    {
+      "basename": "p4",
+      "path": "docs/学校课程/归档课程/数字逻辑与计算机组成/实验报告/p4.md"
+    },
+    {
+      "basename": "git",
+      "path": "docs/技能&工具/git/git.md"
+    },
+    {
+      "basename": "github",
+      "path": "docs/技能&工具/git/github.md"
+    },
+    {
+      "basename": "c++",
+      "path": "docs/技能&工具/构建&编译&调试/c++.md"
+    },
+    {
+      "basename": "docker",
+      "path": "docs/技能&工具/虚拟化/docker.md"
+    },
+    {
+      "basename": "vms",
+      "path": "docs/技能&工具/虚拟化/vms.md"
+    },
+    {
+      "basename": "python基础",
+      "path": "docs/编程语言/python/python基础.md"
+    },
+    {
+      "basename": "八股",
+      "path": "docs/编程语言/c++/八股.md"
+    },
+    {
+      "basename": "线性代数engin",
+      "path": "docs/编程语言/c++/库/线性代数engin.md"
+    },
+    {
+      "basename": "重构-改善既有代码的设计",
+      "path": "docs/其他内容/代码质量/重构-改善既有代码的设计.md"
+    },
+    {
+      "basename": "动手学深度学习",
+      "path": "docs/其他内容/人工智能/动手学深度学习.md"
+    },
+    {
+      "basename": "神经网络架构与技术",
+      "path": "docs/其他内容/人工智能/神经网络架构与技术.md"
+    },
+    {
+      "basename": "机器学习理论基础",
+      "path": "docs/其他内容/人工智能/机器学习理论基础.md"
+    },
+    {
+      "basename": "HR面",
+      "path": "docs/知识点（保研&工作）/工作/面试技巧/HR面.md"
+    },
+    {
+      "basename": "反问环节",
+      "path": "docs/知识点（保研&工作）/工作/面试技巧/反问环节.md"
+    },
+    {
       "basename": "离散数学",
       "path": "docs/知识点（保研&工作）/保研/数学/离散数学.md"
     },
@@ -65,20 +145,8 @@
       "path": "docs/学校课程/归档课程/数据结构/笔记/线性数据结构.md"
     },
     {
-      "basename": "图",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/图.md"
-    },
-    {
-      "basename": "搜索结构",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/搜索结构.md"
-    },
-    {
       "basename": "树",
       "path": "docs/学校课程/归档课程/数据结构/笔记/树.md"
-    },
-    {
-      "basename": "排序",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/排序.md"
     },
     {
       "basename": "树",
@@ -131,74 +199,6 @@
     {
       "basename": "pa2",
       "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa2.md"
-    },
-    {
-      "basename": "4",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/4.md"
-    },
-    {
-      "basename": "3",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/3.md"
-    },
-    {
-      "basename": "2",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/2.md"
-    },
-    {
-      "basename": "计算机系统基础笔记",
-      "path": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md"
-    },
-    {
-      "basename": "重点",
-      "path": "docs/学校课程/归档课程/计算机网络/重点.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "docs/学校课程/归档课程/计算机网络/笔记.md"
-    },
-    {
-      "basename": "作业四",
-      "path": "docs/学校课程/归档课程/计算机网络/作业/作业四.md"
-    },
-    {
-      "basename": "作业七",
-      "path": "docs/学校课程/归档课程/计算机网络/作业/作业七.md"
-    },
-    {
-      "basename": "作业六",
-      "path": "docs/学校课程/归档课程/计算机网络/作业/作业六.md"
-    },
-    {
-      "basename": "实验笔记",
-      "path": "docs/学校课程/归档课程/计算机网络/实验/实验笔记.md"
-    },
-    {
-      "basename": "期末复习",
-      "path": "docs/学校课程/归档课程/公司金融学/期末复习.md"
-    },
-    {
-      "basename": "复习题2023",
-      "path": "docs/学校课程/归档课程/公司金融学/复习题2023.md"
-    },
-    {
-      "basename": "财务基础",
-      "path": "docs/学校课程/归档课程/公司金融学/课件/财务基础.pdf"
-    },
-    {
-      "basename": "第八章公司并购重组与价值评估",
-      "path": "docs/学校课程/归档课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf"
-    },
-    {
-      "basename": "6投资决策",
-      "path": "docs/学校课程/归档课程/公司金融学/课件/6投资决策.pdf"
-    },
-    {
-      "basename": "高级程序设计复习",
-      "path": "docs/学校课程/归档课程/高级程序设计/高级程序设计复习.md"
-    },
-    {
-      "basename": "补充",
-      "path": "docs/学校课程/归档课程/操作系统/笔记/补充.md"
     }
   ],
   "omittedPaths": [],
