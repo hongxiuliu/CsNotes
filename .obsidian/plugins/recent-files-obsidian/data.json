@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "05 Hadoop基本架构",
+      "path": "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf"
+    },
+    {
       "basename": "04 Google MapReduce基本架构",
       "path": "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "06 MapReduce Basic Programming (I)",
       "path": "docs/学校课程/归档课程/大数据/课件/06 MapReduce Basic Programming (I).pdf"
-    },
-    {
-      "basename": "05 Hadoop基本架构",
-      "path": "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf"
     },
     {
       "basename": "01 Big Data",
