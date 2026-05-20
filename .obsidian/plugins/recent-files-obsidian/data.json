@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "02 Parallel Computing",
-      "path": "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf"
+      "basename": "04 Google MapReduce基本架构",
+      "path": "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf"
     },
     {
       "basename": "03 MapReduce简介",
       "path": "docs/学校课程/归档课程/大数据/课件/03 MapReduce简介.pdf"
+    },
+    {
+      "basename": "02 Parallel Computing",
+      "path": "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf"
     },
     {
       "basename": "HBase",
@@ -15,10 +19,6 @@
     {
       "basename": "Hive",
       "path": "docs/学校课程/归档课程/大数据/笔记/Hive.md"
-    },
-    {
-      "basename": "04 Google MapReduce基本架构",
-      "path": "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf"
     },
     {
       "basename": "云计算",
