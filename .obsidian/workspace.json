@@ -25,12 +25,14 @@
             "id": "5067a8737312bfc0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf"
+                "file": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa4-1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "05 Hadoop基本架构"
+              "icon": "lucide-file",
+              "title": "pa4-1"
             }
           }
         ],
@@ -209,6 +211,21 @@
   },
   "active": "5067a8737312bfc0",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa3-3.md",
+    "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa2.md",
+    "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/实验报告pa1.md",
+    "docs/学校课程/归档课程/计算机系统基础/作业/U2.md",
+    "docs/学校课程/归档课程/计算机网络/data/应用层.md",
+    "docs/学校课程/归档课程/计算机网络/data/网络层.md",
+    "docs/学校课程/归档课程/计算机网络/data/链路层.md",
+    "docs/学校课程/归档课程/计算机网络/data/传输层.md",
+    "docs/学校课程/归档课程/计算机网络/实验/实验笔记.md",
+    "docs/学校课程/归档课程/计算机网络/实验/实验报告/实验报告1.md",
+    "docs/学校课程/归档课程/编译原理/笔记/中间代码生成.md",
+    "docs/学校课程/归档课程/编译原理/笔记/运行时刻环境.md",
+    "docs/学校课程/归档课程/编译原理/笔记/词法分析.md",
+    "docs/学校课程/归档课程/大数据/实验/p4.md",
+    "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf",
     "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf",
     "docs/学校课程/归档课程/大数据/课件/03 MapReduce简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/02 Parallel Computing.pdf",
@@ -222,7 +239,6 @@
     "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf",
     "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf",
     "docs/学校课程/归档课程/大数据/课件/08 MapReduce Advanced Programming.pdf",
-    "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf",
     "docs/学校课程/归档课程/数据结构/笔记/图.md",
     "docs/学校课程/归档课程/数据结构/笔记/搜索结构.md",
     "docs/学校课程/归档课程/数据结构/笔记/排序.md",
@@ -231,19 +247,6 @@
     "docs/技能&工具/git/git.md",
     "docs/技能&工具/git/github.md",
     "docs/技能&工具/构建&编译&调试/c++.md",
-    "docs/技能&工具/虚拟化/docker.md",
-    "docs/技能&工具/虚拟化/vms.md",
-    "docs/编程语言/python/python基础.md",
-    "docs/编程语言/c++/八股.md",
-    "docs/编程语言/c++/库/线性代数engin.md",
-    "docs/其他内容/代码质量/重构-改善既有代码的设计.md",
-    "docs/其他内容/人工智能/动手学深度学习.md",
-    "docs/其他内容/人工智能/神经网络架构与技术.md",
-    "docs/其他内容/人工智能/机器学习理论基础.md",
-    "docs/知识点（保研&工作）/工作/面试技巧/HR面.md",
-    "docs/知识点（保研&工作）/工作/面试技巧/反问环节.md",
-    "docs/知识点（保研&工作）/保研/数学/离散数学.md",
-    "docs/知识点（保研&工作）/保研/数学/线性代数.md",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",
     "Excalidraw/pic/Pasted Image 20250603151447_863.png",
     "Excalidraw/pic/Pasted Image 20250603151426_231.png",
