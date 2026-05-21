@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "python基础",
+      "path": "docs/编程语言/python/python基础.md"
+    },
+    {
+      "basename": "uml",
+      "path": "docs/其他内容/软件工程/uml.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "docs/其他内容/软件工程/设计模式.md"
+    },
+    {
+      "basename": "测试",
+      "path": "docs/其他内容/软件工程/软件测试/测试.md"
+    },
+    {
+      "basename": "动手学深度学习",
+      "path": "docs/其他内容/人工智能/动手学深度学习.md"
+    },
+    {
+      "basename": "训练框架使用",
+      "path": "docs/其他内容/人工智能/实验/训练框架使用.md"
+    },
+    {
+      "basename": "pytorch",
+      "path": "docs/其他内容/人工智能/pytorch.md"
+    },
+    {
+      "basename": "神经网络架构与技术",
+      "path": "docs/其他内容/人工智能/神经网络架构与技术.md"
+    },
+    {
+      "basename": "机器学习理论基础",
+      "path": "docs/其他内容/人工智能/机器学习理论基础.md"
+    },
+    {
+      "basename": "Drawing 2025-06-03 15.13.59.excalidraw",
+      "path": "Excalidraw/Drawing 2025-06-03 15.13.59.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-09-12 00.03.25.excalidraw",
+      "path": "Excalidraw/Drawing 2025-09-12 00.03.25.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-11-28 15.43.11.excalidraw",
+      "path": "Excalidraw/Drawing 2024-11-28 15.43.11.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-11-27 18.19.06.excalidraw",
+      "path": "Excalidraw/Drawing 2024-11-27 18.19.06.excalidraw.md"
+    },
+    {
+      "basename": "Pasted Image 20250603151439_890",
+      "path": "Excalidraw/pic/Pasted Image 20250603151439_890.png"
+    },
+    {
+      "basename": "Pasted Image 20250603151426_231",
+      "path": "Excalidraw/pic/Pasted Image 20250603151426_231.png"
+    },
+    {
+      "basename": "Drawing 2024-11-27 14.51.35.excalidraw",
+      "path": "Excalidraw/Drawing 2024-11-27 14.51.35.excalidraw.md"
+    },
+    {
+      "basename": "2025-10-07",
+      "path": "2025-10-07.md"
+    },
+    {
       "basename": "计算机系统基础笔记",
       "path": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "13 NoSQL数据库",
       "path": "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf"
-    },
-    {
-      "basename": "12 MapReduce数据挖掘基础算法 (III)",
-      "path": "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf"
-    },
-    {
-      "basename": "11 MapReduce数据挖掘基础算法 (II)",
-      "path": "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf"
-    },
-    {
-      "basename": "09 基于MapReduce的搜索引擎算法",
-      "path": "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf"
-    },
-    {
-      "basename": "08 MapReduce Advanced Programming",
-      "path": "docs/学校课程/归档课程/大数据/课件/08 MapReduce Advanced Programming.pdf"
-    },
-    {
-      "basename": "07 MapReduce Basic Programming (II)",
-      "path": "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf"
-    },
-    {
-      "basename": "06 MapReduce Basic Programming (I)",
-      "path": "docs/学校课程/归档课程/大数据/课件/06 MapReduce Basic Programming (I).pdf"
-    },
-    {
-      "basename": "01 Big Data",
-      "path": "docs/学校课程/归档课程/大数据/课件/01 Big Data.pdf"
-    },
-    {
-      "basename": "图",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/图.md"
-    },
-    {
-      "basename": "搜索结构",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/搜索结构.md"
-    },
-    {
-      "basename": "排序",
-      "path": "docs/学校课程/归档课程/数据结构/笔记/排序.md"
-    },
-    {
-      "basename": "数字逻辑与计算机组成",
-      "path": "docs/学校课程/归档课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md"
-    },
-    {
-      "basename": "数电样卷",
-      "path": "docs/学校课程/归档课程/数字逻辑与计算机组成/数电样卷.pdf"
-    },
-    {
-      "basename": "p4",
-      "path": "docs/学校课程/归档课程/数字逻辑与计算机组成/实验报告/p4.md"
-    },
-    {
-      "basename": "git",
-      "path": "docs/技能&工具/git/git.md"
-    },
-    {
-      "basename": "github",
-      "path": "docs/技能&工具/git/github.md"
-    },
-    {
-      "basename": "c++",
-      "path": "docs/技能&工具/构建&编译&调试/c++.md"
-    },
-    {
-      "basename": "docker",
-      "path": "docs/技能&工具/虚拟化/docker.md"
     }
   ],
   "omittedPaths": [],
