@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机系统基础笔记",
+      "path": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md"
+    },
+    {
+      "basename": "期末",
+      "path": "docs/学校课程/归档课程/计算机系统基础/期末.md"
+    },
+    {
+      "basename": "8",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/8.md"
+    },
+    {
+      "basename": "7",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/7.md"
+    },
+    {
+      "basename": "4",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/4.md"
+    },
+    {
+      "basename": "2",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/2.md"
+    },
+    {
+      "basename": "实验笔记",
+      "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验笔记.md"
+    },
+    {
+      "basename": "pa4-2",
+      "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa4-2.md"
+    },
+    {
       "basename": "pa4-1",
       "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa4-1.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "docker",
       "path": "docs/技能&工具/虚拟化/docker.md"
-    },
-    {
-      "basename": "vms",
-      "path": "docs/技能&工具/虚拟化/vms.md"
-    },
-    {
-      "basename": "python基础",
-      "path": "docs/编程语言/python/python基础.md"
-    },
-    {
-      "basename": "八股",
-      "path": "docs/编程语言/c++/八股.md"
-    },
-    {
-      "basename": "线性代数engin",
-      "path": "docs/编程语言/c++/库/线性代数engin.md"
-    },
-    {
-      "basename": "重构-改善既有代码的设计",
-      "path": "docs/其他内容/代码质量/重构-改善既有代码的设计.md"
-    },
-    {
-      "basename": "动手学深度学习",
-      "path": "docs/其他内容/人工智能/动手学深度学习.md"
-    },
-    {
-      "basename": "神经网络架构与技术",
-      "path": "docs/其他内容/人工智能/神经网络架构与技术.md"
-    },
-    {
-      "basename": "机器学习理论基础",
-      "path": "docs/其他内容/人工智能/机器学习理论基础.md"
     }
   ],
   "omittedPaths": [],
