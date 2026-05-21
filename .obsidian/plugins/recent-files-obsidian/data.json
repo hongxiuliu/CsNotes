@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习理论基础",
+      "path": "docs/其他内容/人工智能/机器学习理论基础.md"
+    },
+    {
+      "basename": "神经网络架构与技术",
+      "path": "docs/其他内容/人工智能/神经网络架构与技术.md"
+    },
+    {
       "basename": "python基础",
       "path": "docs/编程语言/python/python基础.md"
     },
@@ -27,14 +35,6 @@
     {
       "basename": "pytorch",
       "path": "docs/其他内容/人工智能/pytorch.md"
-    },
-    {
-      "basename": "神经网络架构与技术",
-      "path": "docs/其他内容/人工智能/神经网络架构与技术.md"
-    },
-    {
-      "basename": "机器学习理论基础",
-      "path": "docs/其他内容/人工智能/机器学习理论基础.md"
     },
     {
       "basename": "Drawing 2025-06-03 15.13.59.excalidraw",
