@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "tinyraytracer",
+      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/实验/tinyraytracer.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/三维重建/笔记.md"
+    },
+    {
+      "basename": "games202高质量实时渲染",
+      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/课程/games202高质量实时渲染.md"
+    },
+    {
       "basename": "C++基础",
       "path": "docs/编程语言/c++/C++基础.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Hive",
       "path": "docs/学校课程/归档课程/大数据/笔记/Hive.md"
-    },
-    {
-      "basename": "云计算",
-      "path": "docs/学校课程/归档课程/大数据/笔记/云计算.md"
-    },
-    {
-      "basename": "概述",
-      "path": "docs/学校课程/归档课程/大数据/笔记/概述.md"
-    },
-    {
-      "basename": "14 HBase基本原理与程序设计",
-      "path": "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf"
     }
   ],
   "omittedPaths": [],
