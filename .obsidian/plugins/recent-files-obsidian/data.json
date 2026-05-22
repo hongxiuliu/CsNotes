@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "C++基础",
+      "path": "docs/编程语言/c++/C++基础.md"
+    },
+    {
       "basename": "机器学习理论基础",
       "path": "docs/其他内容/人工智能/机器学习理论基础.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "14 HBase基本原理与程序设计",
       "path": "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf"
-    },
-    {
-      "basename": "13 NoSQL数据库",
-      "path": "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf"
     }
   ],
   "omittedPaths": [],
