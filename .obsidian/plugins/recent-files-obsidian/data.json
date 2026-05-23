@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "14 HBase基本原理与程序设计",
+      "path": "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf"
+    },
+    {
+      "basename": "16 Spark简介",
+      "path": "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf"
+    },
+    {
       "basename": "13 NoSQL数据库",
       "path": "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "实验报告1",
       "path": "docs/学校课程/归档课程/计算机网络/实验/实验报告/实验报告1.md"
-    },
-    {
-      "basename": "中间代码生成",
-      "path": "docs/学校课程/归档课程/编译原理/笔记/中间代码生成.md"
-    },
-    {
-      "basename": "运行时刻环境",
-      "path": "docs/学校课程/归档课程/编译原理/笔记/运行时刻环境.md"
     }
   ],
   "omittedPaths": [],
