@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "15 Hive简介",
+      "path": "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf"
+    },
+    {
       "basename": "14 HBase基本原理与程序设计",
       "path": "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实验笔记",
       "path": "docs/学校课程/归档课程/计算机网络/实验/实验笔记.md"
-    },
-    {
-      "basename": "实验报告1",
-      "path": "docs/学校课程/归档课程/计算机网络/实验/实验报告/实验报告1.md"
     }
   ],
   "omittedPaths": [],

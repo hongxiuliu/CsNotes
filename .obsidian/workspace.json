@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf"
+                "file": "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "14 HBase基本原理与程序设计"
+              "title": "15 Hive简介"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
-    "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf",
+    "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf",
     "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf",
     "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf",
