@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "07 MapReduce Basic Programming (II)",
+      "path": "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf"
+    },
+    {
+      "basename": "05 Hadoop基本架构",
+      "path": "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf"
+    },
+    {
       "basename": "tinyraytracer",
       "path": "docs/其他内容/游戏开发&图形学/计算机图形学/实验/tinyraytracer.md"
     },
@@ -177,10 +185,6 @@
       "path": "docs/学校课程/归档课程/大数据/实验/p4.md"
     },
     {
-      "basename": "05 Hadoop基本架构",
-      "path": "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf"
-    },
-    {
       "basename": "04 Google MapReduce基本架构",
       "path": "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HBase",
       "path": "docs/学校课程/归档课程/大数据/笔记/HBase.md"
-    },
-    {
-      "basename": "Hive",
-      "path": "docs/学校课程/归档课程/大数据/笔记/Hive.md"
     }
   ],
   "omittedPaths": [],
