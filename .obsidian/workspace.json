@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf"
+                "file": "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "07 MapReduce Basic Programming (II)"
+              "title": "09 基于MapReduce的搜索引擎算法"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/大数据/课件/08 MapReduce Advanced Programming.pdf",
+    "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf",
     "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf",
     "docs/其他内容/游戏开发&图形学/计算机图形学/实验/tinyraytracer.md",
     "docs/其他内容/游戏开发&图形学/计算机图形学/三维重建/笔记.md",
@@ -230,7 +232,6 @@
     "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf",
     "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf",
     "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf",
-    "docs/学校课程/归档课程/大数据/课件/08 MapReduce Advanced Programming.pdf",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",
     "Excalidraw/pic/Pasted Image 20250603151447_863.png",
     "docs/_draft_/Fundamentals-Of-Computer-Graphics-5th-CN-main/pic/Pasted image 20241208220421.png",
