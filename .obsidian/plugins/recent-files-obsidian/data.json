@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 MapReduce数据挖掘基础算法 (III)",
+      "path": "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf"
+    },
+    {
       "basename": "11 MapReduce数据挖掘基础算法 (II)",
       "path": "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "词法分析",
       "path": "docs/学校课程/归档课程/编译原理/笔记/词法分析.md"
-    },
-    {
-      "basename": "p4",
-      "path": "docs/学校课程/归档课程/大数据/实验/p4.md"
     }
   ],
   "omittedPaths": [],
