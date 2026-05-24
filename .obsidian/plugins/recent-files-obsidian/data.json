@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "16 Spark简介",
+      "path": "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf"
+    },
+    {
       "basename": "15 Hive简介",
       "path": "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf"
     },
@@ -9,8 +13,16 @@
       "path": "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf"
     },
     {
-      "basename": "16 Spark简介",
-      "path": "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf"
+      "basename": "线性代数",
+      "path": "docs/知识点（保研&工作）/保研/数学/线性代数.md"
+    },
+    {
+      "basename": "离散数学",
+      "path": "docs/知识点（保研&工作）/保研/数学/离散数学.md"
+    },
+    {
+      "basename": "概率论",
+      "path": "docs/知识点（保研&工作）/保研/数学/概率论.md"
     },
     {
       "basename": "13 NoSQL数据库",
@@ -187,18 +199,6 @@
     {
       "basename": "网络层",
       "path": "docs/学校课程/归档课程/计算机网络/data/网络层.md"
-    },
-    {
-      "basename": "链路层",
-      "path": "docs/学校课程/归档课程/计算机网络/data/链路层.md"
-    },
-    {
-      "basename": "传输层",
-      "path": "docs/学校课程/归档课程/计算机网络/data/传输层.md"
-    },
-    {
-      "basename": "实验笔记",
-      "path": "docs/学校课程/归档课程/计算机网络/实验/实验笔记.md"
     }
   ],
   "omittedPaths": [],

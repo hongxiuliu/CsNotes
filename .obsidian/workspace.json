@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf"
+                "file": "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "15 Hive简介"
+              "title": "16 Spark简介"
             }
           }
         ]
@@ -194,7 +194,11 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf",
+    "docs/知识点（保研&工作）/保研/数学/线性代数.md",
+    "docs/知识点（保研&工作）/保研/数学/离散数学.md",
+    "docs/知识点（保研&工作）/保研/数学/概率论.md",
     "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf",
     "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf",
@@ -203,7 +207,6 @@
     "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf",
     "docs/学校课程/归档课程/大数据/课件/08 MapReduce Advanced Programming.pdf",
     "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf",
-    "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf",
     "docs/其他内容/游戏开发&图形学/计算机图形学/实验/tinyraytracer.md",
     "docs/其他内容/游戏开发&图形学/计算机图形学/三维重建/笔记.md",
     "docs/其他内容/游戏开发&图形学/计算机图形学/课程/games202高质量实时渲染.md",
@@ -228,10 +231,6 @@
     "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md",
     "docs/学校课程/归档课程/计算机系统基础/期末.md",
     "docs/学校课程/归档课程/计算机系统基础/data/8.md",
-    "docs/学校课程/归档课程/计算机系统基础/data/7.md",
-    "docs/学校课程/归档课程/计算机系统基础/data/4.md",
-    "docs/学校课程/归档课程/计算机系统基础/data/2.md",
-    "docs/学校课程/归档课程/大数据/课件/04 Google MapReduce基本架构.pdf",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",
     "Excalidraw/pic/Pasted Image 20250603151447_863.png",
     "docs/_draft_/Fundamentals-Of-Computer-Graphics-5th-CN-main/pic/Pasted image 20241208220421.png",
