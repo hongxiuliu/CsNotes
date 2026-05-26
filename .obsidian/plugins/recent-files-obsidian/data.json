@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "代码生成",
+      "path": "docs/学校课程/归档课程/编译原理/笔记/代码生成.md"
+    },
+    {
+      "basename": "编译原理",
+      "path": "docs/学校课程/归档课程/编译原理/编译原理.md"
+    },
+    {
+      "basename": "运行时刻环境",
+      "path": "docs/学校课程/归档课程/编译原理/笔记/运行时刻环境.md"
+    },
+    {
+      "basename": "中间代码生成",
+      "path": "docs/学校课程/归档课程/编译原理/笔记/中间代码生成.md"
+    },
+    {
+      "basename": "语法制导的编译技术",
+      "path": "docs/学校课程/归档课程/编译原理/笔记/语法制导的编译技术.md"
+    },
+    {
       "basename": "16 Spark简介",
       "path": "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "pa3-3",
       "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa3-3.md"
-    },
-    {
-      "basename": "pa2",
-      "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa2.md"
-    },
-    {
-      "basename": "实验报告pa1",
-      "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/实验报告pa1.md"
-    },
-    {
-      "basename": "U2",
-      "path": "docs/学校课程/归档课程/计算机系统基础/作业/U2.md"
-    },
-    {
-      "basename": "应用层",
-      "path": "docs/学校课程/归档课程/计算机网络/data/应用层.md"
-    },
-    {
-      "basename": "网络层",
-      "path": "docs/学校课程/归档课程/计算机网络/data/网络层.md"
     }
   ],
   "omittedPaths": [],

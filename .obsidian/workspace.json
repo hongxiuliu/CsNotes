@@ -11,12 +11,14 @@
             "id": "7fa86c2358eb623f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf"
+                "file": "docs/学校课程/归档课程/编译原理/笔记/代码生成.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "16 Spark简介"
+              "icon": "lucide-file",
+              "title": "代码生成"
             }
           }
         ]
@@ -194,12 +196,16 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/编译原理/编译原理.md",
+    "docs/学校课程/归档课程/编译原理/笔记/运行时刻环境.md",
+    "docs/学校课程/归档课程/编译原理/笔记/中间代码生成.md",
+    "docs/学校课程/归档课程/编译原理/笔记/语法制导的编译技术.md",
+    "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf",
     "docs/知识点（保研&工作）/保研/数学/线性代数.md",
     "docs/知识点（保研&工作）/保研/数学/离散数学.md",
     "docs/知识点（保研&工作）/保研/数学/概率论.md",
-    "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf",
     "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf",
     "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf",
@@ -228,9 +234,6 @@
     "Excalidraw/pic/Pasted Image 20250603151426_231.png",
     "Excalidraw/Drawing 2024-11-27 14.51.35.excalidraw.md",
     "2025-10-07.md",
-    "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md",
-    "docs/学校课程/归档课程/计算机系统基础/期末.md",
-    "docs/学校课程/归档课程/计算机系统基础/data/8.md",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",
     "Excalidraw/pic/Pasted Image 20250603151447_863.png",
     "docs/_draft_/Fundamentals-Of-Computer-Graphics-5th-CN-main/pic/Pasted image 20241208220421.png",
