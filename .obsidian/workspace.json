@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.3/1.3.md",
+                "file": "docs/学校课程/归档课程/编译原理/笔记/词法分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3"
+              "title": "词法分析"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/编译原理/作业/p1.md",
+    "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.3/1.3.md",
     "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.1/1.1.md",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2023春.pdf",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2022春.pdf",
-    "docs/学校课程/归档课程/编译原理/作业/p1.md",
     "docs/学校课程/归档课程/编译原理/编译原理.md",
     "docs/学校课程/归档课程/编译原理/作业/p13.md",
     "docs/学校课程/归档课程/编译原理/作业/p12.md",
@@ -231,7 +232,6 @@
     "docs/学校课程/归档课程/大数据/课件/10 MapReduce数据挖掘基础算法 (I).pdf",
     "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf",
     "docs/其他内容/游戏开发&图形学/计算机图形学/实验/tinyraytracer.md",
-    "docs/其他内容/游戏开发&图形学/计算机图形学/三维重建/笔记.md",
     "Excalidraw/pic/Pasted Image 20250603151439_890.png",
     "Excalidraw/pic/Pasted Image 20250603151426_231.png",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",

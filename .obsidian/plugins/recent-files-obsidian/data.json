@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "词法分析",
+      "path": "docs/学校课程/归档课程/编译原理/笔记/词法分析.md"
+    },
+    {
+      "basename": "p1",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p1.md"
+    },
+    {
       "basename": "1.3",
       "path": "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.3/1.3.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "编译原理-2022春",
       "path": "docs/学校课程/归档课程/编译原理/题目/编译原理-2022春.pdf"
-    },
-    {
-      "basename": "p1",
-      "path": "docs/学校课程/归档课程/编译原理/作业/p1.md"
     },
     {
       "basename": "编译原理",
@@ -195,10 +199,6 @@
     {
       "basename": "动手学深度学习",
       "path": "docs/其他内容/人工智能/动手学深度学习.md"
-    },
-    {
-      "basename": "训练框架使用",
-      "path": "docs/其他内容/人工智能/实验/训练框架使用.md"
     }
   ],
   "omittedPaths": [],
