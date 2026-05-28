@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "p1",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p1.md"
+    },
+    {
+      "basename": "编译原理",
+      "path": "docs/学校课程/归档课程/编译原理/编译原理.md"
+    },
+    {
+      "basename": "p13",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p13.md"
+    },
+    {
+      "basename": "p12",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p12.md"
+    },
+    {
+      "basename": "p11",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p11.md"
+    },
+    {
+      "basename": "p10",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p10.md"
+    },
+    {
+      "basename": "p9",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p9.md"
+    },
+    {
+      "basename": "p8",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p8.md"
+    },
+    {
+      "basename": "p7",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p7.md"
+    },
+    {
+      "basename": "p6",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p6.md"
+    },
+    {
+      "basename": "p5",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p5.md"
+    },
+    {
+      "basename": "p4",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p4.md"
+    },
+    {
+      "basename": "p3",
+      "path": "docs/学校课程/归档课程/编译原理/作业/p3.md"
+    },
+    {
+      "basename": "排序",
+      "path": "docs/学校课程/归档课程/数据结构/笔记/排序.md"
+    },
+    {
       "basename": "【英语】问题准备",
       "path": "docs/知识点（保研&工作）/保研/面试/英语/【英语】问题准备.md"
     },
@@ -11,10 +67,6 @@
     {
       "basename": "代码生成",
       "path": "docs/学校课程/归档课程/编译原理/笔记/代码生成.md"
-    },
-    {
-      "basename": "编译原理",
-      "path": "docs/学校课程/归档课程/编译原理/编译原理.md"
     },
     {
       "basename": "运行时刻环境",
@@ -147,58 +199,6 @@
     {
       "basename": "Drawing 2024-11-28 15.43.11.excalidraw",
       "path": "Excalidraw/Drawing 2024-11-28 15.43.11.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-11-27 18.19.06.excalidraw",
-      "path": "Excalidraw/Drawing 2024-11-27 18.19.06.excalidraw.md"
-    },
-    {
-      "basename": "Pasted Image 20250603151439_890",
-      "path": "Excalidraw/pic/Pasted Image 20250603151439_890.png"
-    },
-    {
-      "basename": "Pasted Image 20250603151426_231",
-      "path": "Excalidraw/pic/Pasted Image 20250603151426_231.png"
-    },
-    {
-      "basename": "Drawing 2024-11-27 14.51.35.excalidraw",
-      "path": "Excalidraw/Drawing 2024-11-27 14.51.35.excalidraw.md"
-    },
-    {
-      "basename": "2025-10-07",
-      "path": "2025-10-07.md"
-    },
-    {
-      "basename": "计算机系统基础笔记",
-      "path": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md"
-    },
-    {
-      "basename": "期末",
-      "path": "docs/学校课程/归档课程/计算机系统基础/期末.md"
-    },
-    {
-      "basename": "8",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/8.md"
-    },
-    {
-      "basename": "7",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/7.md"
-    },
-    {
-      "basename": "4",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/4.md"
-    },
-    {
-      "basename": "2",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/2.md"
-    },
-    {
-      "basename": "实验笔记",
-      "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验笔记.md"
-    },
-    {
-      "basename": "pa4-2",
-      "path": "docs/学校课程/归档课程/计算机系统基础/实验/实验报告/pa4-2.md"
     }
   ],
   "omittedPaths": [],
