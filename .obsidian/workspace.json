@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/技能&工具/git/github.md",
+                "file": "docs/算法竞赛/杂项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github"
+              "title": "杂项"
             }
           }
         ]
@@ -196,6 +196,20 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/算法竞赛/位运算.md",
+    "docs/算法竞赛/二分&倍增.md",
+    "docs/算法竞赛/哈希.md",
+    "docs/算法竞赛/动态规划.md",
+    "docs/算法竞赛/递归分治.md",
+    "docs/技能&工具/折腾/reveal.js.md",
+    "docs/技能&工具/折腾/jupyter.md",
+    "docs/技能&工具/折腾/jekyll.md",
+    "docs/技能&工具/latex/latex-template.md",
+    "docs/技能&工具/实用工具/ide.md",
+    "docs/技能&工具/构建&编译&调试/makefile.md",
+    "docs/技能&工具/构建&编译&调试/java.md",
+    "docs/技能&工具/虚拟化/docker.md",
+    "docs/技能&工具/git/github.md",
     "docs/技能&工具/git/git.md",
     "docs/技能&工具/vscode/运行配置.md",
     "docs/技能&工具/pc日常/数据备份/数据备份.md",
@@ -210,20 +224,6 @@
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2022春.pdf",
     "docs/学校课程/归档课程/编译原理/编译原理.md",
     "docs/学校课程/归档课程/编译原理/作业/p13.md",
-    "docs/学校课程/归档课程/编译原理/作业/p12.md",
-    "docs/学校课程/归档课程/编译原理/作业/p11.md",
-    "docs/学校课程/归档课程/编译原理/作业/p10.md",
-    "docs/学校课程/归档课程/编译原理/作业/p9.md",
-    "docs/学校课程/归档课程/编译原理/作业/p8.md",
-    "docs/学校课程/归档课程/编译原理/作业/p7.md",
-    "docs/学校课程/归档课程/编译原理/作业/p6.md",
-    "docs/学校课程/归档课程/编译原理/作业/p5.md",
-    "docs/学校课程/归档课程/编译原理/作业/p4.md",
-    "docs/学校课程/归档课程/编译原理/作业/p3.md",
-    "docs/学校课程/归档课程/数据结构/笔记/排序.md",
-    "docs/知识点（保研&工作）/保研/面试/英语/【英语】问题准备.md",
-    "docs/学校课程/归档课程/高级程序设计/高级程序设计复习.md",
-    "docs/学校课程/归档课程/编译原理/笔记/代码生成.md",
     "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf",

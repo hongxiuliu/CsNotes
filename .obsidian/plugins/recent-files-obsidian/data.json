@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "杂项",
+      "path": "docs/算法竞赛/杂项.md"
+    },
+    {
+      "basename": "位运算",
+      "path": "docs/算法竞赛/位运算.md"
+    },
+    {
+      "basename": "二分&倍增",
+      "path": "docs/算法竞赛/二分&倍增.md"
+    },
+    {
+      "basename": "哈希",
+      "path": "docs/算法竞赛/哈希.md"
+    },
+    {
+      "basename": "动态规划",
+      "path": "docs/算法竞赛/动态规划.md"
+    },
+    {
+      "basename": "递归分治",
+      "path": "docs/算法竞赛/递归分治.md"
+    },
+    {
+      "basename": "reveal.js",
+      "path": "docs/技能&工具/折腾/reveal.js.md"
+    },
+    {
+      "basename": "jupyter",
+      "path": "docs/技能&工具/折腾/jupyter.md"
+    },
+    {
+      "basename": "jekyll",
+      "path": "docs/技能&工具/折腾/jekyll.md"
+    },
+    {
+      "basename": "latex-template",
+      "path": "docs/技能&工具/latex/latex-template.md"
+    },
+    {
+      "basename": "ide",
+      "path": "docs/技能&工具/实用工具/ide.md"
+    },
+    {
+      "basename": "makefile",
+      "path": "docs/技能&工具/构建&编译&调试/makefile.md"
+    },
+    {
+      "basename": "java",
+      "path": "docs/技能&工具/构建&编译&调试/java.md"
+    },
+    {
+      "basename": "docker",
+      "path": "docs/技能&工具/虚拟化/docker.md"
+    },
+    {
       "basename": "github",
       "path": "docs/技能&工具/git/github.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "线性代数",
       "path": "docs/知识点（保研&工作）/保研/数学/线性代数.md"
-    },
-    {
-      "basename": "离散数学",
-      "path": "docs/知识点（保研&工作）/保研/数学/离散数学.md"
-    },
-    {
-      "basename": "概率论",
-      "path": "docs/知识点（保研&工作）/保研/数学/概率论.md"
-    },
-    {
-      "basename": "13 NoSQL数据库",
-      "path": "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf"
-    },
-    {
-      "basename": "12 MapReduce数据挖掘基础算法 (III)",
-      "path": "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf"
-    },
-    {
-      "basename": "11 MapReduce数据挖掘基础算法 (II)",
-      "path": "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf"
-    },
-    {
-      "basename": "10 MapReduce数据挖掘基础算法 (I)",
-      "path": "docs/学校课程/归档课程/大数据/课件/10 MapReduce数据挖掘基础算法 (I).pdf"
-    },
-    {
-      "basename": "09 基于MapReduce的搜索引擎算法",
-      "path": "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf"
-    },
-    {
-      "basename": "08 MapReduce Advanced Programming",
-      "path": "docs/学校课程/归档课程/大数据/课件/08 MapReduce Advanced Programming.pdf"
-    },
-    {
-      "basename": "07 MapReduce Basic Programming (II)",
-      "path": "docs/学校课程/归档课程/大数据/课件/07 MapReduce Basic Programming (II).pdf"
-    },
-    {
-      "basename": "05 Hadoop基本架构",
-      "path": "docs/学校课程/归档课程/大数据/课件/05 Hadoop基本架构.pdf"
-    },
-    {
-      "basename": "tinyraytracer",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/实验/tinyraytracer.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/三维重建/笔记.md"
-    },
-    {
-      "basename": "games202高质量实时渲染",
-      "path": "docs/其他内容/游戏开发&图形学/计算机图形学/课程/games202高质量实时渲染.md"
-    },
-    {
-      "basename": "C++基础",
-      "path": "docs/编程语言/c++/C++基础.md"
     }
   ],
   "omittedPaths": [],
