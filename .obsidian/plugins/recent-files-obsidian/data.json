@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "docs/index.md"
+    },
+    {
       "basename": "计算机组成原理",
       "path": "docs/知识点（保研&工作）/保研/计算机科学/计算机组成原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "p10",
       "path": "docs/学校课程/归档课程/编译原理/作业/p10.md"
-    },
-    {
-      "basename": "p9",
-      "path": "docs/学校课程/归档课程/编译原理/作业/p9.md"
     }
   ],
   "omittedPaths": [],
