@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/算法竞赛/杂项.md",
+                "file": "docs/知识点（保研&工作）/保研/计算机科学/计算机组成原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "杂项"
+              "title": "计算机组成原理"
             }
           }
         ]
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 200
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -196,6 +196,24 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/知识点（保研&工作）/保研/计算机科学/数据结构与算法.md",
+    "docs/知识点（保研&工作）/保研/计算机科学/计算机组成原理.md",
+    "docs/知识点（保研&工作）/保研/计算机科学/计算机网络.md",
+    "docs/知识点（保研&工作）/保研/计算机科学/操作系统.md",
+    "docs/知识点（保研&工作）/保研/计算机科学/补充.md",
+    "docs/知识点（保研&工作）/保研/计算机科学/编译原理.md",
+    "docs/知识点（保研&工作）/保研/面试/面试.pdf",
+    "docs/知识点（保研&工作）/保研/面试/问题.md",
+    "docs/知识点（保研&工作）/保研/数学/概率论.md",
+    "docs/知识点（保研&工作）/保研/数学/线性代数.md",
+    "docs/知识点（保研&工作）/保研/数学/离散数学.md",
+    "docs/知识点（保研&工作）/保研/面试/南大复试面试题答案汇总.pdf",
+    "docs/知识点（保研&工作）/保研/机试/笔记.md",
+    "docs/知识点（保研&工作）/工作/计算机科学/杂项.md",
+    "docs/知识点（保研&工作）/工作/计算机科学/计算机网络.md",
+    "docs/知识点（保研&工作）/工作/计算机科学/计算机图形学.md",
+    "docs/知识点（保研&工作）/工作/计算机科学/并发编程.md",
+    "docs/算法竞赛/杂项.md",
     "docs/算法竞赛/位运算.md",
     "docs/算法竞赛/二分&倍增.md",
     "docs/算法竞赛/哈希.md",
@@ -206,32 +224,14 @@
     "docs/技能&工具/折腾/jekyll.md",
     "docs/技能&工具/latex/latex-template.md",
     "docs/技能&工具/实用工具/ide.md",
-    "docs/技能&工具/构建&编译&调试/makefile.md",
-    "docs/技能&工具/构建&编译&调试/java.md",
-    "docs/技能&工具/虚拟化/docker.md",
-    "docs/技能&工具/git/github.md",
-    "docs/技能&工具/git/git.md",
-    "docs/技能&工具/vscode/运行配置.md",
-    "docs/技能&工具/pc日常/数据备份/数据备份.md",
-    "docs/技能&工具/linux与shell/八股.md",
-    "docs/技能&工具/linux与shell/linux.md",
-    "docs/技能&工具/linux与shell/Shell编程.md",
-    "docs/学校课程/归档课程/编译原理/笔记/词法分析.md",
-    "docs/学校课程/归档课程/编译原理/作业/p1.md",
-    "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.3/1.3.md",
-    "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.1/1.1.md",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2023春.pdf",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2022春.pdf",
-    "docs/学校课程/归档课程/编译原理/编译原理.md",
-    "docs/学校课程/归档课程/编译原理/作业/p13.md",
     "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/15 Hive简介.pdf",
     "docs/学校课程/归档课程/大数据/课件/14 HBase基本原理与程序设计.pdf",
     "docs/学校课程/归档课程/大数据/课件/13 NoSQL数据库.pdf",
     "docs/学校课程/归档课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf",
     "docs/学校课程/归档课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf",
-    "docs/学校课程/归档课程/大数据/课件/10 MapReduce数据挖掘基础算法 (I).pdf",
-    "docs/学校课程/归档课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf",
     "Excalidraw/pic/Pasted Image 20250603151439_890.png",
     "Excalidraw/pic/Pasted Image 20250603151426_231.png",
     "docs/知识点（保研&工作）/保研/笔试/c96536f112a74024be9f595f007a2763.jpg",
