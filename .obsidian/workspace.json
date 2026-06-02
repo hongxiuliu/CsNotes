@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/学校课程/归档课程/操作系统/笔记/并发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "并发"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/知识点（保研&工作）/保研/计算机科学/计算机组成原理.md",
     "docs/知识点（保研&工作）/保研/计算机科学/数据结构与算法.md",
     "docs/知识点（保研&工作）/保研/计算机科学/计算机网络.md",
@@ -223,7 +224,6 @@
     "docs/技能&工具/折腾/jupyter.md",
     "docs/技能&工具/折腾/jekyll.md",
     "docs/技能&工具/latex/latex-template.md",
-    "docs/技能&工具/实用工具/ide.md",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2023春.pdf",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2022春.pdf",
     "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "并发",
+      "path": "docs/学校课程/归档课程/操作系统/笔记/并发.md"
+    },
+    {
       "basename": "index",
       "path": "docs/index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "p11",
       "path": "docs/学校课程/归档课程/编译原理/作业/p11.md"
-    },
-    {
-      "basename": "p10",
-      "path": "docs/学校课程/归档课程/编译原理/作业/p10.md"
     }
   ],
   "omittedPaths": [],
