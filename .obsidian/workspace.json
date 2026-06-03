@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/学校课程/归档课程/操作系统/笔记/并发.md",
+                "file": "docs/算法竞赛/前缀和与差分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "并发"
+              "title": "前缀和与差分"
             }
           }
         ]
@@ -196,6 +196,13 @@
   },
   "active": "7fa86c2358eb623f",
   "lastOpenFiles": [
+    "docs/算法竞赛/使用VSCode编写C++单文件程序(Windows系统).md",
+    "docs/算法竞赛/链表.md",
+    "docs/算法竞赛/模板.md",
+    "docs/算法竞赛/博弈.md",
+    "docs/算法竞赛/错题本.md",
+    "docs/学校课程/归档课程/计算机系统基础/data/2.md",
+    "docs/学校课程/归档课程/操作系统/笔记/并发.md",
     "docs/index.md",
     "docs/知识点（保研&工作）/保研/计算机科学/计算机组成原理.md",
     "docs/知识点（保研&工作）/保研/计算机科学/数据结构与算法.md",
@@ -217,13 +224,6 @@
     "docs/算法竞赛/杂项.md",
     "docs/算法竞赛/位运算.md",
     "docs/算法竞赛/二分&倍增.md",
-    "docs/算法竞赛/哈希.md",
-    "docs/算法竞赛/动态规划.md",
-    "docs/算法竞赛/递归分治.md",
-    "docs/技能&工具/折腾/reveal.js.md",
-    "docs/技能&工具/折腾/jupyter.md",
-    "docs/技能&工具/折腾/jekyll.md",
-    "docs/技能&工具/latex/latex-template.md",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2023春.pdf",
     "docs/学校课程/归档课程/编译原理/题目/编译原理-2022春.pdf",
     "docs/学校课程/归档课程/大数据/课件/16 Spark简介.pdf",

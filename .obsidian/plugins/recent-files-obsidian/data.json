@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "前缀和与差分",
+      "path": "docs/算法竞赛/前缀和与差分.md"
+    },
+    {
+      "basename": "使用VSCode编写C++单文件程序(Windows系统)",
+      "path": "docs/算法竞赛/使用VSCode编写C++单文件程序(Windows系统).md"
+    },
+    {
+      "basename": "链表",
+      "path": "docs/算法竞赛/链表.md"
+    },
+    {
+      "basename": "模板",
+      "path": "docs/算法竞赛/模板.md"
+    },
+    {
+      "basename": "博弈",
+      "path": "docs/算法竞赛/博弈.md"
+    },
+    {
+      "basename": "错题本",
+      "path": "docs/算法竞赛/错题本.md"
+    },
+    {
+      "basename": "2",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/2.md"
+    },
+    {
       "basename": "并发",
       "path": "docs/学校课程/归档课程/操作系统/笔记/并发.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "1.3",
       "path": "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.3/1.3.md"
-    },
-    {
-      "basename": "1.1",
-      "path": "docs/学校课程/归档课程/编译原理/作业/答案/dragon-book-exercise-answers-master/ch01/1.1/1.1.md"
-    },
-    {
-      "basename": "编译原理-2023春",
-      "path": "docs/学校课程/归档课程/编译原理/题目/编译原理-2023春.pdf"
-    },
-    {
-      "basename": "编译原理-2022春",
-      "path": "docs/学校课程/归档课程/编译原理/题目/编译原理-2022春.pdf"
-    },
-    {
-      "basename": "编译原理",
-      "path": "docs/学校课程/归档课程/编译原理/编译原理.md"
-    },
-    {
-      "basename": "p13",
-      "path": "docs/学校课程/归档课程/编译原理/作业/p13.md"
-    },
-    {
-      "basename": "p12",
-      "path": "docs/学校课程/归档课程/编译原理/作业/p12.md"
-    },
-    {
-      "basename": "p11",
-      "path": "docs/学校课程/归档课程/编译原理/作业/p11.md"
     }
   ],
   "omittedPaths": [],
