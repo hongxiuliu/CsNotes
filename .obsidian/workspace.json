@@ -11,10 +11,14 @@
             "id": "c50e3618ab1e3931",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "计算机系统基础笔记"
             }
           }
         ]

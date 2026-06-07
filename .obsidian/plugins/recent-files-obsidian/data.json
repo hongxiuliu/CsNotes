@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机系统基础笔记",
+      "path": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md"
+    },
+    {
       "basename": "相关词汇",
       "path": "docs/知识点（保研&工作）/保研/面试/英语/相关词汇.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "linux",
       "path": "docs/技能&工具/linux与shell/linux.md"
-    },
-    {
-      "basename": "Shell编程",
-      "path": "docs/技能&工具/linux与shell/Shell编程.md"
     }
   ],
   "omittedPaths": [],
