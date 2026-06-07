@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "相关词汇",
+      "path": "docs/知识点（保研&工作）/保研/面试/英语/相关词汇.md"
+    },
+    {
+      "basename": "【英语】问题准备",
+      "path": "docs/知识点（保研&工作）/保研/面试/英语/【英语】问题准备.md"
+    },
+    {
       "basename": "树",
       "path": "docs/算法竞赛/树.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Shell编程",
       "path": "docs/技能&工具/linux与shell/Shell编程.md"
-    },
-    {
-      "basename": "词法分析",
-      "path": "docs/学校课程/归档课程/编译原理/笔记/词法分析.md"
-    },
-    {
-      "basename": "p1",
-      "path": "docs/学校课程/归档课程/编译原理/作业/p1.md"
     }
   ],
   "omittedPaths": [],
