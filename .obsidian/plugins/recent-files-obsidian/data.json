@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2",
+      "path": "docs/学校课程/归档课程/计算机系统基础/data/2.md"
+    },
+    {
       "basename": "计算机系统基础笔记",
       "path": "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "错题本",
       "path": "docs/算法竞赛/错题本.md"
-    },
-    {
-      "basename": "2",
-      "path": "docs/学校课程/归档课程/计算机系统基础/data/2.md"
     },
     {
       "basename": "并发",
