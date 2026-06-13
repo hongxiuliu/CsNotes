@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/学校课程/归档课程/计算机系统基础/data/2.md",
+                "file": "docs/学校课程/归档课程/数据结构/笔记/排序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2"
+              "title": "排序"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "c50e3618ab1e3931",
   "lastOpenFiles": [
+    "docs/学校课程/归档课程/计算机系统基础/data/2.md",
     "docs/学校课程/归档课程/计算机系统基础/计算机系统基础笔记.md",
     "docs/知识点（保研&工作）/保研/面试/英语/相关词汇.md",
     "docs/知识点（保研&工作）/保研/面试/英语/【英语】问题准备.md",
@@ -206,7 +207,6 @@
     "docs/算法竞赛/模板.md",
     "docs/算法竞赛/博弈.md",
     "docs/算法竞赛/错题本.md",
-    "docs/学校课程/归档课程/计算机系统基础/data/2.md",
     "docs/学校课程/归档课程/操作系统/笔记/并发.md",
     "docs/index.md",
     "docs/知识点（保研&工作）/保研/计算机科学/计算机组成原理.md",
