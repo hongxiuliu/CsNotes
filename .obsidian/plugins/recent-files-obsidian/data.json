@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "01 Big Data",
+      "path": "docs/学校课程/归档课程/大数据/课件/01 Big Data.pdf"
+    },
+    {
+      "basename": "概述",
+      "path": "docs/学校课程/归档课程/大数据/笔记/概述.md"
+    },
+    {
       "basename": "【英语】问题准备",
       "path": "docs/知识点（保研&工作）/保研/面试/英语/【英语】问题准备.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "运行配置",
       "path": "docs/技能&工具/vscode/运行配置.md"
-    },
-    {
-      "basename": "数据备份",
-      "path": "docs/技能&工具/pc日常/数据备份/数据备份.md"
-    },
-    {
-      "basename": "八股",
-      "path": "docs/技能&工具/linux与shell/八股.md"
     }
   ],
   "omittedPaths": [],
